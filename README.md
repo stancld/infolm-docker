@@ -6,3 +6,10 @@ for the verification of the equivalence of these metrics and their [`torchmetics
 counterparts.
 
 The more information and code for these three aforementiond metrics can be found in the [original repo](https://github.com/PierreColombo/nlg_eval_via_simi_measures).
+
+The usage of this repository is pretty simple. It is just to sufficient to run the following:
+```
+docker compose build
+docker compose up
+```
+and then copy Jupyter URL to open Jupyter Lab in your browser.
