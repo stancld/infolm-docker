@@ -1,0 +1,9 @@
+jupyter-client==7.3.0
+jupyter-core==4.10.0
+jupyter-server==1.17.0
+jupyterlab==3.3.4
+jupyterlab-pygments==0.2.2
+jupyterlab-server==2.13.0
+jupyterlab-widgets==1.1.0
+torch~=1.11
+transformers~=4.20
